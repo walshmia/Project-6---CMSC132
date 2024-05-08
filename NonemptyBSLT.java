@@ -2,7 +2,7 @@ package bslt;
 
 import java.util.Collections;
 
-/*  Mia Walsh, mwalsh27, 119691915, CMSC132 - 0303 
+/*  Mia Walsh, CMSC132 - 0303 
  * The NonemptyBSLT class represents a nonempty object in a binary search tree.
  * A NonemptyBSLT has a generic comparable K called key, a generic V called 
  * value, and a left and right BSLT reference. 
