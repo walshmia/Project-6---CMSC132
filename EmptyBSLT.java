@@ -1,6 +1,6 @@
 package bslt;
 
-/*  Mia Walsh, mwalsh27, 119691915, CMSC132 - 0303 
+/*  Mia Walsh, CMSC132 - 0303 
  * An EmptyBSLT is the singleton class representing empty objects in a tree.
  * The only field an EmptyBSLT has is the static reference to the only 
  * instance of an EmptyBSLT. All methods are used as the base case in
